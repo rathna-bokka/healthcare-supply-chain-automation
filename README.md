@@ -90,7 +90,21 @@ This project uses synthetic or anonymized portfolio data. Personal email address
 ![Inventory Health and Forecast Analysis](dashboard/Inventory%20health%20and%20Forecast%20analysis.png)
 
 ![OTIF and Customer Delivery Performance](dashboard/OTIF%20and%20Customer%20Delivery%20Performance.png)
+## Automation Workflow Preview
 
+### ERP File Processing Flow
+
+![ERP file-processing workflow, part 1](automation/Import.flow1.png)
+
+![ERP file-processing workflow, part 2](automation/import.flow2.png)
+
+### Supply-Risk Detection and Email Alert Flow
+
+![Supply-risk detection workflow, part 1](automation/Risk%20detection.flow1.png)
+
+![Supply-risk detection workflow, part 2](automation/Risk%20detection.flow2.png)
+
+![Supply-risk detection workflow, part 3](automation/Risk%20detection.flow3.png)
 ## Disclaimer
 
 This is an independent portfolio project created for learning and demonstration purposes. It is not affiliated with, sponsored by, or endorsed by any healthcare or pharmaceutical company.
