@@ -83,6 +83,13 @@ The completed solution reduces the need to review large supply datasets manually
 ## Data and Privacy
 
 This project uses synthetic or anonymized portfolio data. Personal email addresses, local computer paths, account information, credentials, and confidential company data are not included.
+## Dashboard Preview
+
+![Executive Supply Control Tower](dashboard/Executive%20Control%20Tower.png)
+
+![Inventory Health and Forecast Analysis](dashboard/Inventory%20health%20and%20Forecast%20analysis.png)
+
+![OTIF and Customer Delivery Performance](dashboard/OTIF%20and%20Customer%20Delivery%20Performance.png)
 
 ## Disclaimer
 
