@@ -105,6 +105,8 @@ This project uses synthetic or anonymized portfolio data. Personal email address
 ![Supply-risk detection workflow, part 2](automation/Risk%20detection.flow2.png)
 
 ![Supply-risk detection workflow, part 3](automation/Risk%20detection.flow3.png)
+
+![Verified supply-risk automation result](evidence/ChatGPT%20Image%20Sep%2023%2C%202026%2C%2005_34_33%20PM.png)
 ## Disclaimer
 
 This is an independent portfolio project created for learning and demonstration purposes. It is not affiliated with, sponsored by, or endorsed by any healthcare or pharmaceutical company.
